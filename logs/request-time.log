@@ -1,0 +1,2 @@
+2021-08-21 12:22:45.9875||INFO|RestaurantAPI.Middleware.RequestTimeMiddleware|Request [GET] at /api/restaurant took 9037 ms 
+2021-08-27 12:30:23.4797||INFO|RestaurantAPI.Middleware.RequestTimeMiddleware|Request [GET] at /file took 23552 ms 

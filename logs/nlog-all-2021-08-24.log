@@ -1,0 +1,18 @@
+2021-08-24 13:24:42.3877||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-08-24 13:24:42.4113||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-08-24 13:24:42.4113||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\narut\Desktop\kurs APS.NET\RestaurantAPI\RestaurantAPI 
+2021-08-24 13:47:18.2805||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-08-24 13:47:18.3264||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-08-24 13:47:18.3479||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\narut\Desktop\kurs APS.NET\RestaurantAPI\RestaurantAPI 
+2021-08-24 14:07:50.6405||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-08-24 14:07:50.6837||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-08-24 14:07:50.7156||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\narut\Desktop\kurs APS.NET\RestaurantAPI\RestaurantAPI 
+2021-08-24 14:08:21.4710||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User:   with date of birth : 01.01.2010 00:00:00 
+2021-08-24 14:08:21.4710||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succedded 
+2021-08-24 14:09:56.9803||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-08-24 14:09:57.0197||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-08-24 14:09:57.0463||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\narut\Desktop\kurs APS.NET\RestaurantAPI\RestaurantAPI 
+2021-08-24 14:09:57.2790||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User:   with date of birth : 01.01.2010 00:00:00 
+2021-08-24 14:09:57.2790||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization failed 
+2021-08-24 14:10:48.7873||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User:   with date of birth : 01.01.1990 00:00:00 
+2021-08-24 14:10:48.7873||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succedded 
