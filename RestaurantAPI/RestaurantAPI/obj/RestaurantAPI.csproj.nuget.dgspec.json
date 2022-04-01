@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\narut\\Desktop\\kurs APS.NET\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj": {}
+    "C:\\Users\\Vegittoo\\Desktop\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\narut\\Desktop\\kurs APS.NET\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj": {
+    "C:\\Users\\Vegittoo\\Desktop\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\narut\\Desktop\\kurs APS.NET\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Vegittoo\\Desktop\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
         "projectName": "RestaurantAPI",
-        "projectPath": "C:\\Users\\narut\\Desktop\\kurs APS.NET\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-        "packagesPath": "C:\\Users\\narut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\narut\\Desktop\\kurs APS.NET\\RestaurantAPI\\RestaurantAPI\\obj\\",
+        "projectPath": "C:\\Users\\Vegittoo\\Desktop\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+        "packagesPath": "C:\\Users\\Vegittoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vegittoo\\Desktop\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\narut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vegittoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -54,7 +54,7 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
@@ -62,17 +62,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[6.0.3, )"
             },
             "NLog.Web.AspNetCore": {
               "target": "Package",
@@ -101,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
